@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FtCriminal18</string>
+    <string name="crime_title_hint">crime 简短描述.</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">明细</string>
+    <string name="crime_solved_label">是否解决</string>
+    <string name="date_picker_title">crime发生日期:</string>
+    <string name="Time_picker_title">crime发生具体时间:</string>
+    <string name="new_crime">新增crime记录New Crime</string>
+    <string name="show_subtitle">显示子标题</string>
+    <string name="hide_subtitle">隐藏子标题</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1d crimes</item>
+    </plurals>
+
+    <string name="delete_crime">删除crime</string>
+    <string name="empty_list_text">没有任何crime记录 </string>
+
+    <string name="crime_suspect_text">选择嫌疑人</string>
+    <string name="crime_report_text">投诉</string>
+
+    <string name="crime_report">%1$s!
+        The crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crime_report_solved">问题已经解决 </string>
+    <string name="crime_report_unsolved">这个问题没有解决</string>
+    <string name="crime_report_no_suspect">没有嫌疑人.</string>
+    <string name="crime_report_suspect">嫌疑人是 %s.</string>
+    <string name="crime_report_subject">crime处理报告</string>
+    <string name="send_report">投诉方式</string>
+    <string name="crime_call_suspect_text">打电话</string>
+    <string name="suspect_no_phone">嫌疑人没有电话 </string>
+    <string name="no_peimission">用户没有设置访问许可</string>
+    <string name="item_deleted_toast">删除crime成功</string>
+</resources>
